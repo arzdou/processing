@@ -16,7 +16,7 @@ Some considerations:
 
 With a click you can create a series of random walkers that move in a box. 
 The box has cyclic boundary conditions so the number of walkers remains constant. 
-There is also a histogram that shows the number of walkers in #x# and #y# showing how the distribution in always gaussian
+There is also a histogram that shows the number of walkers in **x** and **y** showing how the distribution in always gaussian
 
 ## Curves
 ### circle_lights.pyde
