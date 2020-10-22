@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/5621995/96864136-41eae700-1468-11eb-9e36-8b4d842f2a59.png" width="48" align="right">
+
 # Processing - Jaime
 
 This repository contains Processing3 scripts that I have done during my free time.
@@ -16,4 +18,5 @@ Blablabla
 
 ## Curves
 ### circle_lights.pyde
+
 
