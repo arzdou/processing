@@ -14,9 +14,12 @@ Some considerations:
 ## Physics
 ### r_walk.pyde
 
-Blablabla
+With a click you can create a series of random walkers that move in a box. 
+The box has cyclic boundary conditions so the number of walkers remains constant. 
+There is also a histogram that shows the number of walkers in #x# and #y# showing how the distribution in always gaussian
 
 ## Curves
 ### circle_lights.pyde
 
-
+With a click you can create a point that moves appears to move randomly in a curvy way
+The movement is created using chained circles that rotate with a fixed angular velocity
